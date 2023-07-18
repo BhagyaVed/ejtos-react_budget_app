@@ -38,5 +38,5 @@
 }
 
 .bg_green{
-    background-color: rgb(114, 221, 114);
+    background-color: rgb(114, 221, 114) !important;
 }
