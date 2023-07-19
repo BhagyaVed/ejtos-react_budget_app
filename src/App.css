@@ -40,3 +40,8 @@
 .bg_green{
     background-color: rgb(114, 221, 114) !important;
 }
+
+.btn-green {
+    background-color: #46bb46 !important;
+    color: #fff !important;
+}
